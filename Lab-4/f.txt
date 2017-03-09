@@ -1,0 +1,8 @@
+1 r a
+1 w a
+0 r a
+1 r b
+1 w b
+0 w a
+0 r b
+0 w b
